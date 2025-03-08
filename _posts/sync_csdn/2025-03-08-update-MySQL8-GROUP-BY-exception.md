@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "升级到MySQL8 GROUP BY的异常"
-author:       "Hux"
+author:       "Zhou Zhongqing"
 header-style: text
 catalog:      true
 tags:
