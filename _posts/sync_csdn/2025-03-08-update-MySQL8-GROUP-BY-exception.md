@@ -11,7 +11,8 @@ tags:
 
 @[TOC](目录)
 ## 异常详情
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9ead555a78a7473babbdfa5ca4ab249a.png) 
+![](https://i-blog.csdnimg.cn/direct/9ead555a78a7473babbdfa5ca4ab249a.png) 
+![](https://picx.zhimg.com/50/v2-9557bd0507ca70f7afd075730f31a2e3_720w.jpg)
 - **1055 - Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'xxx.xxx.value' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by**
  
 
