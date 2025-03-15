@@ -1,15 +1,12 @@
 ---
 layout:     post
 title:      "nuxt创建项目失败"
-date:       2014-08-16 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-miui6.jpg"
+date:       2024-06-01 12:00:00
+author:     "ZZQ"
 tags:
     - 知乎
     - 产品
-    - UX/UI
 ---
-
 
 ## 报错详情
 >Error: Failed to download template from registry: Failed to download https://raw.githubusercontent.com/nuxt/starter/templates/templates/v3.json: TypeError: fetch failed
